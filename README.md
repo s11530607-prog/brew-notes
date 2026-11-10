@@ -2,7 +2,7 @@
 
 一個用 Markdown 寫成的手沖咖啡個人知識庫。一頁一主題、筆記之間互相連結，並用 `AGENTS.md` 定義一整套規則，讓 AI 可以依照同樣的格式持續新增內容。
 
-- 網站：https://YOUR-USERNAME.github.io/brew-notes/
+- 網站：https://s11530607-prog.github.io/brew-notes/
 - 規則文件：[AGENTS.md](AGENTS.md)（Claude Code 透過 [CLAUDE.md](CLAUDE.md) 讀取同一份規則）
 
 ## 特色

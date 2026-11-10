@@ -1,0 +1,50 @@
+{
+  "title": "沖煮手帖",
+  "subtitle": "我的手沖咖啡知識庫",
+  "description": "把每次沖咖啡學到的事整理成一頁一主題的筆記，彼此互相連結，越寫越完整。",
+  "author": "（你的名字）",
+  "repoUrl": "https://github.com/s11530607-prog/brew-notes",
+  "startHere": "first-pour-over",
+  "categories": [
+    {
+      "id": "basics",
+      "name": "沖煮變因",
+      "description": "粉水比、研磨、水溫……決定一杯咖啡味道的那些參數。"
+    },
+    {
+      "id": "gear",
+      "name": "器具",
+      "description": "濾杯、磨豆機等器具的差異與挑選方式。"
+    },
+    {
+      "id": "beans",
+      "name": "咖啡豆",
+      "description": "烘焙度、處理法：沖之前，先認識豆子本身。"
+    },
+    {
+      "id": "practice",
+      "name": "實作流程",
+      "description": "從準備到完成的步驟，以及味道不對時的排查方法。"
+    }
+  ],
+  "types": [
+    {
+      "id": "concept",
+      "name": "概念",
+      "sections": ["一句話說明", "為什麼重要", "怎麼調整", "我的做法"]
+    },
+    {
+      "id": "guide",
+      "name": "指南",
+      "sections": ["準備", "步驟", "常見問題"]
+    },
+    {
+      "id": "comparison",
+      "name": "比較",
+      "sections": ["比較總覽", "各自特色", "怎麼選", "我的選擇"]
+    }
+  ],
+  "pages": [
+    { "slug": "about", "title": "關於" }
+  ]
+}

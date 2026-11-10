@@ -1,0 +1,178 @@
+[
+  {
+    "slug": "brew-ratio",
+    "title": "粉水比",
+    "category": "basics",
+    "type": "concept",
+    "tags": [
+      "變因",
+      "比例"
+    ],
+    "summary": "咖啡粉和熱水的重量比例，決定一杯咖啡是濃還是淡。",
+    "updated": "2026-11-02",
+    "related": [
+      "extraction",
+      "first-pour-over"
+    ]
+  },
+  {
+    "slug": "grind-size",
+    "title": "研磨度",
+    "category": "basics",
+    "type": "concept",
+    "tags": [
+      "變因",
+      "研磨"
+    ],
+    "summary": "粉的粗細決定水流速度與萃取效率，是最常需要調整的變因。",
+    "updated": "2026-11-03",
+    "related": [
+      "grinder-types",
+      "extraction"
+    ]
+  },
+  {
+    "slug": "water-temperature",
+    "title": "水溫",
+    "category": "basics",
+    "type": "concept",
+    "tags": [
+      "變因",
+      "熱水"
+    ],
+    "summary": "水溫越高萃取越快；淺焙適合高溫，深焙適合稍低的溫度。",
+    "updated": "2026-11-04",
+    "related": [
+      "roast-level",
+      "extraction"
+    ]
+  },
+  {
+    "slug": "bloom",
+    "title": "悶蒸",
+    "category": "basics",
+    "type": "concept",
+    "tags": [
+      "變因",
+      "注水"
+    ],
+    "summary": "第一次少量注水讓咖啡粉排出二氧化碳，後續萃取才會均勻。",
+    "updated": "2026-11-05",
+    "related": [
+      "first-pour-over",
+      "water-temperature"
+    ]
+  },
+  {
+    "slug": "extraction",
+    "title": "萃取率",
+    "category": "basics",
+    "type": "concept",
+    "tags": [
+      "變因",
+      "風味"
+    ],
+    "summary": "咖啡粉裡有多少物質被水帶走；太少偏酸，太多偏苦澀。",
+    "updated": "2026-11-08",
+    "related": [
+      "taste-troubleshooting",
+      "brew-ratio"
+    ]
+  },
+  {
+    "slug": "dripper-shapes",
+    "title": "濾杯：錐形 vs 平底",
+    "category": "gear",
+    "type": "comparison",
+    "tags": [
+      "器具",
+      "濾杯"
+    ],
+    "summary": "錐形濾杯流速快、風味明亮；平底濾杯流速穩、容錯率高。",
+    "updated": "2026-11-06",
+    "related": [
+      "grind-size",
+      "first-pour-over"
+    ]
+  },
+  {
+    "slug": "grinder-types",
+    "title": "磨豆機：刀片式 vs 磨盤式",
+    "category": "gear",
+    "type": "comparison",
+    "tags": [
+      "器具",
+      "研磨"
+    ],
+    "summary": "磨盤式的研磨均勻度遠勝刀片式，是升級手沖最有感的一步。",
+    "updated": "2026-11-07",
+    "related": [
+      "grind-size"
+    ]
+  },
+  {
+    "slug": "roast-level",
+    "title": "烘焙度",
+    "category": "beans",
+    "type": "concept",
+    "tags": [
+      "咖啡豆",
+      "烘焙"
+    ],
+    "summary": "淺焙保留果酸與花香，深焙帶來焦糖與苦甜，沖法也要跟著調整。",
+    "updated": "2026-11-07",
+    "related": [
+      "water-temperature",
+      "processing-methods"
+    ]
+  },
+  {
+    "slug": "processing-methods",
+    "title": "處理法：水洗、日曬、蜜處理",
+    "category": "beans",
+    "type": "comparison",
+    "tags": [
+      "咖啡豆",
+      "產地"
+    ],
+    "summary": "咖啡果實採收後怎麼去除果肉，會大幅改變杯中的風味。",
+    "updated": "2026-11-09",
+    "related": [
+      "roast-level"
+    ]
+  },
+  {
+    "slug": "first-pour-over",
+    "title": "第一杯手沖：從零開始",
+    "category": "practice",
+    "type": "guide",
+    "tags": [
+      "入門",
+      "流程"
+    ],
+    "summary": "準備四樣器具，照著步驟就能沖出第一杯穩定的手沖咖啡。",
+    "updated": "2026-11-01",
+    "related": [
+      "brew-ratio",
+      "grind-size",
+      "bloom"
+    ]
+  },
+  {
+    "slug": "taste-troubleshooting",
+    "title": "喝起來不對？風味診斷",
+    "category": "practice",
+    "type": "guide",
+    "tags": [
+      "風味",
+      "除錯"
+    ],
+    "summary": "太酸、太苦、太淡或澀口時，該依序檢查哪些變因。",
+    "updated": "2026-11-10",
+    "related": [
+      "extraction",
+      "grind-size",
+      "brew-ratio"
+    ]
+  }
+]
